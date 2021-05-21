@@ -1,4 +1,21 @@
 # bikesharing
+# Downoad Tableau Public
+First, go to the `Tableau` website and enter your email. You will also be required to enter some contact information, but you can always unsubscribe from communications.
+# Install Tableau Public
+Once you have downloaded Tableau Public, we can start the process of installing Tableau Public. The process of installing Tableau Public is very similar to installing most other programs.
+
+After it's finished downloading, click to open the file and then follow the on-screen instructions. This is the first screen you will see as part of the installation. Go ahead and click "Continue."
+<img width="732" alt="s1" src="https://user-images.githubusercontent.com/76136277/119202197-47d89300-ba5e-11eb-87a1-88bcec2f62bd.png">
+
+Once you click "Continue," you should see the following screen. Click "Install."
+<img width="732" alt="s2" src="https://user-images.githubusercontent.com/76136277/119202229-59219f80-ba5e-11eb-8a9c-64b2b07d7da8.png">
+
+This process may take a few minutes. This is what your window should look like:
+<img width="732" alt="s3" src="https://user-images.githubusercontent.com/76136277/119202261-68a0e880-ba5e-11eb-8d58-91b15d2d9723.png">
+
+When the installation is complete, you will see this window confirming that the software was installed successfully:
+<img width="732" alt="s4" src="https://user-images.githubusercontent.com/76136277/119202284-75254100-ba5e-11eb-89f5-89ebd156a00c.png">
+
 # Project Overview
  For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
    1. Show the length of time that bikes are checked out for all riders and genders
